@@ -6,7 +6,7 @@ let countH = 0
 
 function onePointHome() {
     countH += 1
-    counterH.innerText = countH
+    counterH.textContent = countH
 }
 
 function twoPointHome() {
