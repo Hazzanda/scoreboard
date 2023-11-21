@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    background-color: azure;
+                                                 
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+p {
+    border: none;
+    text-align: center;
+    background-color: black;
+    color: red;
+    padding: 30px;
+    font-size: 50px;
+}
+
+button {
+    font-family: inherit;
+}
